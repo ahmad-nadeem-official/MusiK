@@ -1,6 +1,6 @@
-    Plaintext
+    code
     
-        ├── your_script.py
+        ├── main.py
         └── Kate Bush - Running Up That Hill (Lyrics)  From Stranger Things Season 4 Soundtrack.mp3 
 
 🚀 How to Run
