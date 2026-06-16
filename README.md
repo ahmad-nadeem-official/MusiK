@@ -1,4 +1,4 @@
-    code
+    Plaintext
     
         ├── main.py
         └── Kate Bush - Running Up That Hill (Lyrics)  From Stranger Things Season 4 Soundtrack.mp3 
@@ -10,7 +10,7 @@ Just execute the Python script:
 
 Bash
 
-    python your_script.py 
+    python3 main.py 
 
 🧠 Behind the Scenes
 --------------------
@@ -20,14 +20,7 @@ Bash
 *   **`music.load()`**: Streams the track efficiently so your RAM doesn't choke.
     
 *   **`music.play(-1)`**: The `-1` argument tells Pygame to loop the track infinitely. It literally will not stop until you kill the terminal. """
-    
 
-with open("README.md", "w", encoding="utf-8") as f: f.write(markdown\_content)
-
- Your Markdown file is ready
-    [file-tag: code-generated-file-d1f47410-6e21-4b03-a0ad-bd039d8533a0]
-    
-    Here is the clean, unformatted markdown text as requested:
     
     ```markdown
     # 🎧 Running Up That Hill (Pygame Audio Player)
@@ -48,7 +41,7 @@ with open("README.md", "w", encoding="utf-8") as f: f.write(markdown\_content)
 
 Plaintext
 
-       ├── your_script.py
+       ├── main.py
        └── Kate Bush - Running Up That Hill (Lyrics)  From Stranger Things Season 4 Soundtrack.mp3 
 
 🚀 How to Run
@@ -58,7 +51,7 @@ Just execute the Python script:
 
 Bash
 
-    python your_script.py 
+    python main.py 
 
 🧠 Behind the Scenes
 --------------------
